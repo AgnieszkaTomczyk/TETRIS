@@ -1,0 +1,8 @@
+Strona:
+http://www.findsounds.com/ISAPI/search.dll
+
+[rotate] http://tipiwiki.free.fr/snd/BoutDeBois2.wav
+[line] http://www.pacdv.com/sounds/mechanical_sound_effects/coin_4.wav
+[stop] http://www.senderogroup.com/mp3/sounds/alert_drip.wav
+
+[bg] http://www.orangefreesounds.com/terra-incognita-instrumental-music/
